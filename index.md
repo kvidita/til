@@ -1,5 +1,5 @@
 # Hello I'm Vidita. Here's my dailylogs
-[projects](/til/projects.md)
+[projects](/til/projects)
 ## TODAY'S LEARNINGS
 - 27th may 2023
   1. dependency injection (helpful for testing the functions that does not returns anything)
