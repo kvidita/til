@@ -1,4 +1,5 @@
-# TODAY'S LEARNINGS
+# Hello I'm Vidita. Here's my dailylogs
+## TODAY'S LEARNINGS
 - 27th may 2023
   1. dependency injection (helpful for testing the functions that does not returns anything)
   2. inversion of control
