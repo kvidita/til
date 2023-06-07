@@ -17,6 +17,7 @@
   3. process.stdin.on("data")
   4. process.stdin.on("end")
   5. process.stdin.on("err")
+  6. fs.createReadStream()
 
 ## TODAY'S LEARNINGS
 - 7th june 2023
