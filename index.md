@@ -15,7 +15,8 @@
   1. package
     - making package and requiring package
   3. npm
-    - installing :- npm install table
+    - initializing :- npm init
+    - installing some package :- npm install table
     - npm table
     - npm colors
 
