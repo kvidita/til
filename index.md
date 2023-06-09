@@ -43,3 +43,11 @@
 ## TODAY'S LEARNINGS
 - 8th june 2023
   1. use of documents when required
+
+## TODAY'S LEARNINGS
+- 9th june 2023
+  1. inheritance concept
+    - any class is an instance of it's parent
+    - parent's methods and fields becomes accessable to the inhereting class
+    - while inheriting a class super must be the first thing to declare in constructor as super method refers to the parent class
+    - while inheriting a class extends keyword is used
