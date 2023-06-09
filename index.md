@@ -9,6 +9,15 @@
     - session on markdown documentation
     - creating github page
     - suggestion on putting daily notes on github page collectively
+   
+## TODAY'S LEARNINGS
+- 5th june 2023
+  1. package
+    - making package and requiring package
+  3. npm
+    - installing :- npm install table
+    - npm table
+    - npm colors
 
 ##  TODAY'S LEARNINGS
 - 6th june 2023
@@ -30,3 +39,7 @@
   7. process.stdin.cursorTo  :- used to place the cursor in the screen where you want
   8. process.stdout.clearScreenDown()  :- used to clear the screen below the cursor's last position
   9. "a" in obj (checks presense of a key called "a" in object obj)
+
+## TODAY'S LEARNINGS
+- 8th june 2023
+  1. use of documents when required
