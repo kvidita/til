@@ -1,33 +1,27 @@
 # Hello I'm Vidita. Here's my dailylogs
 [projects](/til/projects)
-## 27th may 2023
-- TODAY'S LEARNINGS
-  1. dependency injection (helpful for testing the functions that does not returns anything)
-  2. inversion of control
-  3. jayanth's session
-    - example for inversion of control > games having options of changing themes and levels
-    - session on markdown documentation
-    - creating github page
-    - suggestion on putting daily notes on github page collectively
-   
-## 5th june 2023
-- TODAY'S LEARNINGS
-  1. package
-    - making package and requiring package
-  3. npm
-    - initializing :- npm init
-    - installing some package :- npm install table
-    - npm table
-    - npm colors
 
-##  6th june 2023
+## 10th june 2023
 - TODAY'S LEARNINGS
-  1. Set :- a class that creates a set out of given string
-  2. EventEmitter
-  3. process.stdin.on("data")
-  4. process.stdin.on("end")
-  5. process.stdin.on("err")
-  6. fs.createReadStream()
+  1. mocking some function using 'it', we can use context to mock a function.
+    -function mocked can be declared as 
+      const mockedFn = context.mock.fn()   :- (specifying that some function is being mocked).
+  2. using done while mocking :- specifies that the assertion will be done only after the specified function is called.
+  3. for setTimeout, the done and assertion shall be placed in the right place.
+
+## 9th june 2023 
+- TODAY'S LEARNINGS
+  1. inheritance concept 
+    - any class is an instance of it's parent
+    - parent's public methods and fields becomes accessable to the inhereting class
+    - super method refers to the parent class
+    - while a derived class inherits a base class, 'super(arguments)' must be the first thing to declare in constructor
+    - while inheriting a class 'extends' keyword is used
+    - for eg. anything in js is an object as js internally extends everything to an object.
+
+## 8th june 2023
+- TODAY'S LEARNINGS
+  1. use of documents when required
 
 ## 7th june 2023
 - TODAY'S LEARNINGS
@@ -41,24 +35,32 @@
   8. process.stdout.clearScreenDown()  :- used to clear the screen below the cursor's last position
   9. "a" in obj (checks presense of a key called "a" in object obj)
 
-## 8th june 2023
+##  6th june 2023
 - TODAY'S LEARNINGS
-  1. use of documents when required
+  1. Set :- a class that creates a set out of given string
+  2. EventEmitter
+  3. process.stdin.on("data")
+  4. process.stdin.on("end")
+  5. process.stdin.on("err")
+  6. fs.createReadStream()
 
-## 9th june 2023 
+## 5th june 2023
 - TODAY'S LEARNINGS
-  1. inheritance concept 
-    - any class is an instance of it's parent
-    - parent's public methods and fields becomes accessable to the inhereting class
-    - super method refers to the parent class
-    - while a derived class inherits a base class, 'super(arguments)' must be the first thing to declare in constructor
-    - while inheriting a class 'extends' keyword is used
-    - for eg. anything in js is an object as js internally extends everything to an object.
+  1. package
+    - making package and requiring package
+  3. npm
+    - initializing :- npm init
+    - installing some package :- npm install table
+    - npm table
+    - npm colors
 
-## 10th june 2023
+## 27th may 2023
 - TODAY'S LEARNINGS
-  1. mocking some function using 'it', we can use context to mock a function.
-    -function mocked can be declared as 
-      const mockedFn = context.mock.fn()   :- (specifying that some function is being mocked).
-  2. using done while mocking :- specifies that the assertion will be done only after the specified function is called.
-  3. for setTimeout, the done and assertion shall be placed in the right place.
+  1. dependency injection (helpful for testing the functions that does not returns anything)
+  2. inversion of control
+  3. jayanth's session
+    - example for inversion of control > games having options of changing themes and levels
+    - session on markdown documentation
+    - creating github page
+    - suggestion on putting daily notes on github page collectively
+   
