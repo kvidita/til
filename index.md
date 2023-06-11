@@ -53,3 +53,12 @@
     - super method refers to the parent class
     - while a derived class inherits a base class, 'super(arguments)' must be the first thing to declare in constructor
     - while inheriting a class 'extends' keyword is used
+    - for eg. anything in js is an object as js internally extends everything to an object.
+
+## 10th june 2023
+- TODAY'S LEARNINGS
+  1. mocking some function using 'it', we can use context to mock a function.
+    -function mocked can be declared as 
+      const mockedFn = context.mock.fn()   :- (specifying that some function is being mocked).
+  2. using done while mocking :- specifies that the assertion will be done only after the specified function is called.
+  3. for setTimeout, the done and assertion shall be placed in the right place.
