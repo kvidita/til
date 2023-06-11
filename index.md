@@ -8,6 +8,7 @@
       const mockedFn = context.mock.fn()   :- (specifying that some function is being mocked).
   2. using done while mocking :- specifies that the assertion will be done only after the specified function is called.
   3. for setTimeout, the done and assertion shall be placed in the right place.
+  4. * once code is written, just think about the work it does, internal code must not be remembered.
 
 ## 9th june 2023 
 - TODAY'S LEARNINGS
