@@ -9,6 +9,12 @@
   2. using done while mocking :- specifies that the assertion will be done only after the specified function is called.
   3. for setTimeout, the done and assertion shall be placed in the right place.
   4. * once code is written, just think about the work it does, internal code must not be remembered.
+  5. MVC -(Model-View-Controller)
+    - program logic is divided into three interconnected elements
+      1. Model:- (central component) application's dynamic data structure, independent of the user interface. It directly manages the data, logic and rules of the application
+      2. View:- (Any representation of information) Multiple views of the same information are possible, such as a bar chart for management and a tabular view for accountants.
+      3. Controller:- Accepts input and converts it to commands for the model or view.
+    example tic-tac-toe done by jayanth.
 
 ## 9th june 2023 
 - TODAY'S LEARNINGS
