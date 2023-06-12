@@ -7,7 +7,7 @@
     -function mocked can be declared as 
       const mockedFn = context.mock.fn()   :- (specifying that some function is being mocked).
   2. using done while mocking :- specifies that the assertion will be done only after the specified function is called.
-  3. for setTimeout, the done and assertion shall be placed in the right place.
+  3. for setTimeout, ```the done``` and assertion shall be placed in the right place.
   4. * once code is written, just think about the work it does, internal code must not be remembered.
   5. MVC -(Model-View-Controller)
     - program logic is divided into three interconnected elements
@@ -46,10 +46,12 @@
 - TODAY'S LEARNINGS
   1. Set :- a class that creates a set out of given string
   2. EventEmitter
-  3. process.stdin.on("data")
-  4. process.stdin.on("end")
-  5. process.stdin.on("err")
-  6. fs.createReadStream()
+  3. process.stdin :- The process.stdin property returns a stream connected to stdin (fd 0)
+  4. process.stdout :-  The process.stdout property returns a stream connected to stdout (fd 1)
+  5. process.stdin.on("data")
+  6. process.stdin.on("end")
+  7. process.stdin.on("err")
+  8. fs.createReadStream()
 
 ## 5th june 2023
 - TODAY'S LEARNINGS
@@ -57,15 +59,19 @@
     - making package and requiring package
   3. npm
     - initializing :- npm init
-    - installing some package :- npm install table
-    - npm table
-    - npm colors
+    - installing some package :- npm install table 
+    - for eg:-
+      - npm table (package)
+      - npm colors (package)
 
 ## 27th may 2023
 - TODAY'S LEARNINGS
-  1. dependency injection (helpful for testing the functions that does not returns anything)
+  1. dependency injection 
+    - to have greater control over the code
+    - to make code more flexible, less coupled or decoupled
+    - helpful for testing the functions that does not returns anything
   2. inversion of control
-  3. jayanth's session
+  3.  jayanth's session
     - example for inversion of control > games having options of changing themes and levels
     - session on markdown documentation
     - creating github page
