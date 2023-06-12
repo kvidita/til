@@ -1,6 +1,53 @@
 # Hello I'm Vidita. Here's my dailylogs
 [projects](/til/projects)
 
+## 12th june 2023
+- TODAY'S LEARNINGS
+  1. introduntion to html 
+    - html standing for HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
+    - Markup language:- A markup language is a text-encoding system consisting of a set of symbols inserted in a text document to control its structure, formatting, or the relationship between its parts.
+    - HTML elements are the building blocks of HTML pages(Elements such as head and body). HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes, and other items. HTML elements are delineated by tags, written using angle brackets.
+    - Elements of html:-  These are indicated in the document by HTML tags, enclosed in angle brackets, generally in pair having start tag and end tag. The general form of an HTML element is therefore: <tag attribute1="value1" attribute2="value2">''content''</tag>. Some HTML elements are defined as empty elements and take the form <tag attribute1="value1" attribute2="value2">, for eg:- <br />.
+    - * Elements are not tags.HEAD element is always present, even though both start and end HEAD tags may be missing in the markup. Tags are used to delimit the start and end of elements in the markup. The start and end tags of certain normal elements can be omitted.
+    - There are three types of elements
+      - normal elements :- start tag, any numbers of attributes, some amount of content, including text and other elements, and end tag, eg, title tag
+      - raw text elements :- start tag, any numbers of attributes, some amount of text content, but no elements and end tag
+      - void elements :- only have a start tag, contains any numbers of attributes
+    - Attributes:- HTML attributes define desired behavior or indicate additional element properties. Most attributes require a value.
+2. TAGS LEARNED
+  - html :- known as the root element of the document. We use it as first tag because it helps browsers recognise that a given document is a HTML document.
+  - head :- The head tag is a container for all the head elements in an HTML page. for eg, title tag.
+  - title :- The title tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page's tab.
+  - body :- The body tag defines the document's body.body element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.There can only be one <body> element in an HTML document.
+  - heading tags: h1, h2, h3, ... to h6.
+  - paragraph p
+  - bold b, italic i, underline u, break br.
+  - lists: 
+      - ordered and unordered.
+      - ol          ul
+      - list item: li
+  - table:
+      - table,
+      - table row tr.
+      - table heading th.
+      - table data td.
+
+  - anchor: <a href="url here">Visit google</a>
+  
+  - what is Inline elements and block elements. Span is inline element.
+  - pre tag
+  - id
+  - anchor tag with id
+  - anchor tag with target  "_blank"
+
+  - Styling
+    - color, background-color, font-size, font-family, border-style, border-color, text-decoration, text-align
+
+3. By default style get inherit , you can override style in child.
+  
+
+    
+
 ## 10th june 2023
 - TODAY'S LEARNINGS
   1. mocking some function using 'it', we can use context to mock a function.
