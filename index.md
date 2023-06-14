@@ -1,6 +1,13 @@
 # Hello I'm Vidita. Here's my dailylogs
 [projects](/til/projects)
 
+## 13th june 2023
+- TODAY'S LEARNINGS
+  1. img tag for placing images <img>. source must be mensioned through ```src``` attribute. width and height can be customized.
+  2. <hr /> for a line throughout.
+  3. alt :- alternate text that should be displayed in place of the image.
+  4. target attribute :- to mention where the link is desired to open.
+
 ## 12th june 2023
 - TODAY'S LEARNINGS
   1. introduntion to html 
