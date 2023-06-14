@@ -1,6 +1,16 @@
 # Hello I'm Vidita. Here's my dailylogs
 [projects](/til/projects)
 
+## 14th june 2023 
+- TODAY'S LEARNINGS
+  1. containers in html
+  2. div tag is used as a container
+  3. header tag :- The <header> element represents a container for introductory content or a set of navigational links or the logos.
+    - nav tag :- the tag is useful for the navigation links in the header section.
+  4. main tag :- main tag specifies the main content of the document and is useful for the voice over to understand the main content.
+  5. section tag :- it defines a section of the main content of the document, that should be meaningful together.
+  6. footer tag :- it is the bottom section of the document, that may contain the copyright, terms and conditions etc.
+
 ## 13th june 2023
 - TODAY'S LEARNINGS
   1. img tag for placing images <img>. source must be mensioned through ```src``` attribute. width and height can be customized.
