@@ -1,5 +1,6 @@
 # Hello I'm Vidita. Here's my dailylogs
-[my pages](/til/my-pages)
+[my pages](/til/my-pages.md)
+
 [projects](/til/projects)
 
 ## 14th june 2023 
