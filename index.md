@@ -36,8 +36,8 @@
   - head :- The head tag is a container for all the head elements in an HTML page. for eg, title tag.
   - title :- The title tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page's tab.
   - body :- The body tag defines the document's body.body element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.There can only be one <body> element in an HTML document.
-  - heading tags: h1, h2, h3, ... to h6.
-  - paragraph p
+  - heading tags: h1, h2, h3, ... to h6. (* headings must be used for structure not for font size, there must be one single h1 tag in the document. Lower level of heading must not be used before it's preceeding level heading)
+  - paragraph p :- writing a text in a paragraph (a paragraph is not nested in a paragraph)
   - bold b, italic i, underline u, break br.
   - lists: 
       - ordered and unordered.
