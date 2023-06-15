@@ -1,3 +1,2 @@
-[virat kohli](../myWebpages/wikipediaViratKohli.html)
-
-[irctc](../myWebpages/webpageIndianRailways.html)
+- [virat kohli](../myWebpages/wikipediaViratKohli.html)
+- [irctc](../myWebpages/webpageIndianRailways.html)
