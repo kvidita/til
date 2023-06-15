@@ -1,5 +1,5 @@
 # Hello I'm Vidita. Here's my dailylogs
-[my pages](/til/my-pages.md)
+[my pages](/til/my-pages)
 
 [projects](/til/projects)
 
