@@ -4,7 +4,6 @@
 
 ## 16th june 2023
 - TODAY'S LEARNINGS
-  1. 
 
 ## 14th june 2023 
 - TODAY'S LEARNINGS
