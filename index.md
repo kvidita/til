@@ -1,7 +1,7 @@
 # Hello I'm Vidita. Here's my dailylogs
 - [my pages](/til/my-pages)
 - [projects](/til/projects)
-- [work-pipe](/til/work-pipe)
+- [works](/til/work-pipe)
 
 ## 16th june 2023
 - TODAY'S LEARNINGS
