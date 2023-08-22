@@ -3,6 +3,22 @@
 - [projects](/til/projects)
 - [works](/til/work-pipe)
 
+## 21 AUG 2023
+- TODAY'S LEARNINGS
+  1. web framework for Node.js (express)
+  2. express can be installed using npm
+  3. express helps us create app that provides methods as:
+    - get
+    - post
+    - patch
+    - delete
+    - use
+    - all
+  4. use method takes a middleware(function that has access to req and res and the next function in app function cycle) as a parameter.
+  5. handlers gets req, res and next(optional) as arguments
+  6. request methods: req.params, req.path, req.query, etc
+  7. response methods: res.send, res.end, res.json, res.status
+
 ## 21st Aug 2023
 - TODAY'S LEARNINGS
   1. client's side end point can be tested using curl (shell script)
