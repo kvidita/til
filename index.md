@@ -3,7 +3,7 @@
 - [projects](/til/projects)
 - [works](/til/work-pipe)
 
-##21st June 2023
+## 21st June 2023
 - TODAY'S LEARNINGS
   1. client's side end point can be tested using curl (shell script)
   2. use-case of localStorage
